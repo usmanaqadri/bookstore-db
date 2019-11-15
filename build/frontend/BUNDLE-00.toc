@@ -1,0 +1,4 @@
+([('frontend',
+   '/Users/administrator/Documents/Python beyond basics/database '
+   'app/dist/frontend',
+   'EXECUTABLE')],)
